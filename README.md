@@ -4,7 +4,7 @@ Live project URL: TK
 
 This repository contains multiple datasets from varying sources relating to San Francisco’s drug overdose epidemic. 
 
-The Chronicle primarily relies on the San Francisco Office of the Chief Medical Examiner’s [monthly reports] (https://sf.gov/resource/2020/ocme-accidental-overdose-reports) to track the monthly changes in the number of deaths and the share of those that involve fentanyl. Those reports are the most up-to-date and reliable source of information.
+The Chronicle primarily relies on the San Francisco Office of the Chief Medical Examiner’s [monthly reports](https://sf.gov/resource/2020/ocme-accidental-overdose-reports) to track the monthly changes in the number of deaths and the share of those that involve fentanyl. Those reports are the most up-to-date and reliable source of information.
 
 We also use the more detailed data on the circumstances of individual deaths, which we obtained through rolling public records requests, for analysis on the combinations of drugs contributing to the deaths and in other limited instances. Because it offers many more details, it takes the medical examiner’s office longer to verify the information and release it publicly. That means data about more recent deaths are not immediately available. 
 
