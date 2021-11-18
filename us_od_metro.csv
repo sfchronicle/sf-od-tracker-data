@@ -2,7 +2,6 @@ metro_area,lat,lng,pop_2020,all_od_deaths,crude_od_death_rate,fentanyl_deaths,fe
 San Francisco (city & county),37.7749,-122.4194,873965,712,81.5,515,58.9
 Philadelphia (city & county),39.9526,-75.1652,1603797,1214,75.7,979,61.0
 King County (Seattle),47.548,-121.9836,2269675,510,22.5,172,7.6
-Harris County (Houston),29.7752,-95.3103,4731145,4483,94.8,249,5.3
 Washington D.C. (city),38.9072,-77.0369,689545,507,73.5,385,55.8
 Riverside (county),33.9806,-117.3755,2418185,686,28.4,279,11.5
 Los Angeles (county),34.0522,-118.2437,10014009,2425,24.2,1125,11.2
