@@ -1,6 +1,6 @@
 # San Francisco Chronicle Overdose Tracker 
 
-Live project URL: TK
+Live project URL: https://www.sfchronicle.com/projects/2021/san-francisco-drug-overdoses-map/
 
 This repository contains multiple datasets from varying sources relating to San Francisco’s drug overdose epidemic. 
 
@@ -44,13 +44,15 @@ Update frequency: TBD
 
 1. Overdose death rates in California counties with 100,000+ population in 2020
 File name: `ca_od_counties_100k.csv`
-Source: California Department of Public Health Overdose Surveillance Dashboard
+Source: California Department of Public Health Overdose Surveillance Dashboard/Centers for Disease Control and Prevention
 Update frequency: Yearly
+Note: These death rates are lower than the calculated rates in San Francisco-specific tables because of the differences in how the CDC defines overdose deaths. 
 
 2. Overdose death rates in the Bay Area’s nine counties from 2011 to 2020
 File name: `bay_area_od_counties.csv`
-Source: California Department of Public Health Overdose Surveillance Dashboard
+Source: California Department of Public Health Overdose Surveillance Dashboard/Centers for Disease Control and Prevention
 Update frequency: Yearly
+Note: These death rates are lower than the calculated rates in San Francisco-specific tables because of the differences in how the CDC defines overdose deaths. 
 
 3. Overdose and fentanyl-involved death rates in selected U.S. metro areas in 2020 
 File name: `us_od_metro.csv`
