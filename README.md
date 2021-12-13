@@ -35,8 +35,8 @@ File name: `sf_od_race_2020_2021.csv`
 Source: Compiled based on monthly reports from the San Francisco Office of the Chief Medical Examiner
 Update frequency: Monthly
 
-5. Street Overdose Response Team program data
-File name: `sf_od_sort_sept21.csv`
+5. Street Overdose Response Team program data (Updated Dec. 13, 2021)
+File name: `sf_od_sort_nov21.csv`
 Source: San Francisco Department of Public Health
 Update frequency: TBD
 
