@@ -20,7 +20,7 @@ File name: `sf_accidental_od_deaths_jan20_aug21_prelim_ocme.csv`
 Source: San Francisco Office of the Chief Medical Examiner, obtained through public records requests
 Update frequency: TBD
 
-2. Accidental overdose deaths by month from January 2020 to October 2021
+2. Accidental overdose deaths by month from January 2020 to November 2021
 File name: `sf_od_deaths_monthly_2020_2021.csv`
 Source: Compiled based on monthly reports from the San Francisco Office of the Chief Medical Examiner
 Update frequency: Monthly
