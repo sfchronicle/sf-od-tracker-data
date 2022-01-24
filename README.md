@@ -15,8 +15,8 @@ We compiled the death rates of some U.S. metro areas, which were selected based 
 
 **Data on San Francisco trends**
 
-1. Circumstances of deaths that occurred between January 2020 and August 2021
-File name: `sf_accidental_od_deaths_jan20_aug21_prelim_ocme.csv`
+1. Circumstances of deaths that occurred between January 2020 and December 2021 (2021 data are preliminary and incomplete)
+File name: `od_deaths_detailed_2020_2021.csv`
 Source: San Francisco Office of the Chief Medical Examiner, obtained through public records requests
 Update frequency: TBD
 
